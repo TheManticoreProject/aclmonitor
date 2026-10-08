@@ -5,9 +5,9 @@ import (
 
 	"github.com/TheManticoreProject/Manticore/logger"
 
-	"github.com/TheManticoreProject/manticore-aclmonitor/acls"
-	"github.com/TheManticoreProject/manticore-aclmonitor/config"
-	"github.com/TheManticoreProject/manticore-aclmonitor/utils"
+	"github.com/TheManticoreProject/aclmonitor/acls"
+	"github.com/TheManticoreProject/aclmonitor/config"
+	"github.com/TheManticoreProject/aclmonitor/utils"
 )
 
 // Run reads the security descriptors of the domain once and writes them to a file.

@@ -1,4 +1,4 @@
-module github.com/TheManticoreProject/manticore-aclmonitor
+module github.com/TheManticoreProject/aclmonitor
 
 go 1.24.0
 
