@@ -3,9 +3,9 @@
 <p align="center">
       A tool to watch, diff and report the live changes of the Windows security descriptors of Active Directory objects over LDAP
       <br>
-      <a href="https://github.com/TheManticoreProject/manticore-aclmonitor/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/manticore-aclmonitor/actions/workflows/release.yaml/badge.svg"></a>
-      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/manticore-aclmonitor">
-      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/TheManticoreProject/manticore-aclmonitor">
+      <a href="https://github.com/TheManticoreProject/aclmonitor/actions/workflows/release.yaml" title="Build"><img alt="Build and Release" src="https://github.com/TheManticoreProject/aclmonitor/actions/workflows/release.yaml/badge.svg"></a>
+      <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheManticoreProject/aclmonitor">
+      <img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/TheManticoreProject/aclmonitor">
       <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
       <a href="https://www.youtube.com/c/Podalirius_?sub_confirmation=1" title="Subscribe"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCF_x5O7CSfr82AfNVTKOv_A?style=social"></a>
       <br>
@@ -35,10 +35,10 @@
 
 ## Installation
 
-Download the latest release from the [GitHub release page](https://github.com/TheManticoreProject/manticore-aclmonitor/releases), or install it with:
+Download the latest release from the [GitHub release page](https://github.com/TheManticoreProject/aclmonitor/releases), or install it with:
 
 ```bash
-go install github.com/TheManticoreProject/manticore-aclmonitor@latest
+go install github.com/TheManticoreProject/aclmonitor@latest
 ```
 
 ## Usage

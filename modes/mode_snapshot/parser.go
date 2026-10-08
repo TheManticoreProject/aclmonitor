@@ -8,7 +8,7 @@ import (
 	"github.com/TheManticoreProject/Manticore/logger"
 	"github.com/TheManticoreProject/goopts/parser"
 
-	"github.com/TheManticoreProject/manticore-aclmonitor/cli"
+	"github.com/TheManticoreProject/aclmonitor/cli"
 )
 
 // SetupSubParser registers the snapshot mode and the argument groups it carries.

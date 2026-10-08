@@ -5,8 +5,8 @@ import (
 
 	"github.com/TheManticoreProject/Manticore/logger"
 
-	"github.com/TheManticoreProject/manticore-aclmonitor/acls"
-	"github.com/TheManticoreProject/manticore-aclmonitor/config"
+	"github.com/TheManticoreProject/aclmonitor/acls"
+	"github.com/TheManticoreProject/aclmonitor/config"
 )
 
 // Run compares two readings taken by snapshot mode.

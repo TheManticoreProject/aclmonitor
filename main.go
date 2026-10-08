@@ -9,12 +9,12 @@ import (
 	"github.com/TheManticoreProject/Manticore/windows/credentials"
 	"github.com/TheManticoreProject/goopts/parser"
 
-	"github.com/TheManticoreProject/manticore-aclmonitor/acls"
-	"github.com/TheManticoreProject/manticore-aclmonitor/cli"
-	"github.com/TheManticoreProject/manticore-aclmonitor/config"
-	"github.com/TheManticoreProject/manticore-aclmonitor/modes/mode_diff"
-	"github.com/TheManticoreProject/manticore-aclmonitor/modes/mode_monitor"
-	"github.com/TheManticoreProject/manticore-aclmonitor/modes/mode_snapshot"
+	"github.com/TheManticoreProject/aclmonitor/acls"
+	"github.com/TheManticoreProject/aclmonitor/cli"
+	"github.com/TheManticoreProject/aclmonitor/config"
+	"github.com/TheManticoreProject/aclmonitor/modes/mode_diff"
+	"github.com/TheManticoreProject/aclmonitor/modes/mode_monitor"
+	"github.com/TheManticoreProject/aclmonitor/modes/mode_snapshot"
 )
 
 // VERSION is the version of the tool, shown in the banner and recorded in every

@@ -11,9 +11,9 @@ import (
 	"github.com/TheManticoreProject/Manticore/logger"
 	"github.com/TheManticoreProject/Manticore/network/ldap"
 
-	"github.com/TheManticoreProject/manticore-aclmonitor/acls"
-	"github.com/TheManticoreProject/manticore-aclmonitor/config"
-	"github.com/TheManticoreProject/manticore-aclmonitor/utils"
+	"github.com/TheManticoreProject/aclmonitor/acls"
+	"github.com/TheManticoreProject/aclmonitor/config"
+	"github.com/TheManticoreProject/aclmonitor/utils"
 )
 
 // randomDelayLowerBoundMs and randomDelayUpperBoundMs bound, in milliseconds, the
